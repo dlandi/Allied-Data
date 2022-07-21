@@ -3,3 +3,10 @@
 ################################################################################
 
 /src/Allied-Data-Blazorwembly/Allied-Data-Blazorwembly/bin
+/src/Allied-Data-Blazorwembly/Allied-Data-Blazorwembly/obj
+/src/Allied-Data-Blazorwembly/.vs/Allied-Data-Blazor-Azure/v17
+/src/Allied-Data-Blazorwembly/.vs/Allied-Data-Blazorwembly/DesignTimeBuild
+/src/Allied-Data-Blazorwembly/.vs/Allied-Data-Blazorwembly/FileContentIndex
+/src/Allied-Data-Blazorwembly/.vs/ProjectEvaluation
+/src/Allied-Data-Blazorwembly/Allied-Data-Blazorwembly/Properties/PublishProfiles
+/src/Allied-Data-Blazorwembly/Allied-Data-Blazorwembly/Allied-Data-Blazorwembly.csproj.user
